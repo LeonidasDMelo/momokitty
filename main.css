@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-image: url(https://i.gifer.com/origin/1c/1c29154636f73295ad5fe84068c7a180.gif);
+}
+
+header {
+    background-image: url(https://i.gifer.com/origin/1c/1c29154636f73295ad5fe84068c7a180.gif);
+    background-size: auto;
+   color: rgb(241, 75, 75);
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin: 10px;
+}
+
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f1f1f1;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+.merda img {
+   
+margin-top: 30px;
+margin-left: 400px;
+    border-radius: 30px;
+    border:  #e93a3a solid 10px;
+}
+.tatiel {
+    font-size: 20px;
+    text-decoration: underline #f53939;
+}
+.nenem {
+    color:  #f04444;
+}
+.branco{
+    color: white;
+}
+.video {
+    margin-left: 500px;
+}
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+.bosta {
+    color: purple;}
+
+
+
+
+
+ 
+
+.morda {
+    background-color: #ffffff;
+}
+
+
+.haha {
+    font-size: 20px;
+    text-decoration: underline #f53939 solid;
+}
+.tatiel img{
+    margin-top: 30px;
+    margin-left: 400px;
+        border-radius: 30px;
+        border:  #e93a3a solid 10px;
+}
